@@ -75,6 +75,8 @@ const translations = {
     'edu.field1': '산업 데이터 사이언스 및 공학',
     'edu.school1': '부경대학교 & 부산대학교 (공동학위)',
     'edu.detail1': 'TEAMLAB 연구원 (산업 AI 연구실)',
+    'edu.detail1b': 'BK21 (두뇌한국21) 사업 \u2013 대한민국 교육부',
+    'edu.detail1c': '누적 GPA: 4.0 / 4.5 (~8.89 / 10.0)',
     'edu.date2': '2021년 3월 \u2013 2025년 2월',
     'edu.degree2': '복수학위',
     'edu.field2': '빅데이터 통계학 학사 & 경영학 학사',
