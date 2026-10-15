@@ -140,9 +140,9 @@ const translations = {
     'research.pub1.desc': '특허 청구항 보정을 사례별 정답이 존재하는 환경으로 활용하여, 검색 증강이 LLM의 수정을 실제로 근거화하는지 아니면 템플릿을 주입할 뿐인지 검증합니다. 7,385건의 USPTO 심사 사례 코퍼스, 7종의 프로브 세트, 결정론적 5채널 평가 지표를 공개하고, 4개 최신 LLM에 대해 사전 등록된 9,600회 호출로 평가했습니다.',
     'research.pub1.link': 'arXiv에서 읽기 \u2192',
     'research.talks': '학회 발표',
-    'research.talk1.venue': '제14회 International Conference on Logistics and Maritime Systems (LOGMS 2026) \u00B7 스페인 바르셀로나 \u00B7 2026년 7월',
+    'research.talk1.venue': '제14회 International Conference on Logistics and Maritime Systems (LOGMS 2026) \u00B7 스페인 바르셀로나 \u00B7 2026년 7월 8일',
     'research.talk1.role': '발표자 및 세션 좌장 (Optimization Methods, OR & AI)',
-    'research.talk2.venue': 'BK21 NUS \u00B7 부경대 \u00B7 부산대 공동 워크숍 \u00B7 싱가포르 \u00B7 2026년 7월',
+    'research.talk2.venue': 'BK21 NUS \u00B7 부경대 \u00B7 부산대 공동 워크숍 \u00B7 싱가포르 \u00B7 2026년 7월 22일',
     'research.talk2.role': '발표자',
 
     // Skills
