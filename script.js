@@ -126,6 +126,24 @@ const translations = {
     'proj.name5': 'Neuro-Trader',
     'proj.desc5': '인도네시아 주식시장(IHSG)을 위한 멀티 에이전트 AI 트레이딩 리서치 플랫폼을 개발했습니다. 기술적 분석, 펀더멘털 분석, 뉴스 감성 분석, 멀티 에이전트 토론을 결합하여 매매 추천을 생성합니다. FastAPI, Next.js, OpenAI로 구축했습니다.',
     'proj.link5': 'GitHub에서 보기 \u2192',
+    'proj.tag7': '라즈베리 파이',
+    'proj.desc7': '하루를 한눈에 보여주는 라즈베리 파이 데스크 대시보드입니다. MochisHub와 동기화된 일정, 수업, 마감일, 할 일을 책상 옆 소형 상시 화면에 표시합니다.',
+    'proj.tag8': '웹 매거진',
+    'proj.desc8': '매달 발행하는 문화 큐레이션 웹 매거진입니다. 한 달 동안 큐레이션한 장소, 책, 음악, 순간들을 직접 찍은 사진과 함께 담았습니다.',
+    'proj.link8': '이번 호 읽기 \u2192',
+
+    // Research
+    'nav.research': '연구',
+    'research.title': '연구 & 논문',
+    'research.pubs': '논문',
+    'research.pub1.venue': 'ACL 워크숍 \u00B7 2026',
+    'research.pub1.desc': '특허 청구항 보정을 사례별 정답이 존재하는 환경으로 활용하여, 검색 증강이 LLM의 수정을 실제로 근거화하는지 아니면 템플릿을 주입할 뿐인지 검증합니다. 7,385건의 USPTO 심사 사례 코퍼스, 7종의 프로브 세트, 결정론적 5채널 평가 지표를 공개하고, 4개 최신 LLM에 대해 사전 등록된 9,600회 호출로 평가했습니다.',
+    'research.pub1.link': '논문 읽기 \u2192',
+    'research.talks': '학회 발표',
+    'research.talk1.venue': '제14회 International Conference on Logistics and Maritime Systems (LOGMS 2026) \u00B7 스페인 바르셀로나 \u00B7 2026년 7월',
+    'research.talk1.role': '발표자 및 세션 좌장 (Optimization Methods, OR & AI)',
+    'research.talk2.venue': 'BK21 NUS \u00B7 부경대 \u00B7 부산대 공동 워크숍 \u00B7 싱가포르 \u00B7 2026년 7월',
+    'research.talk2.role': '발표자',
 
     // Skills
     'skills.title': '기술',
@@ -191,3 +209,4 @@ langToggle.addEventListener('click', () => {
 
   document.documentElement.lang = currentLang;
 });
+
