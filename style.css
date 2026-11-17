@@ -1060,3 +1060,11 @@ ul {
   color: var(--text-light);
   margin-top: 10px;
 }
+
+.photo-gallery-portrait {
+  max-width: 640px;
+}
+
+.photo-gallery-portrait figure {
+  aspect-ratio: 3 / 4;
+}

@@ -143,6 +143,9 @@ const translations = {
     'research.talks': '학회 발표',
     'research.talk1.venue': '제14회 International Conference on Logistics and Maritime Systems (LOGMS 2026) \u00B7 스페인 바르셀로나 \u00B7 2026년 7월 8일',
     'research.talk1.role': '발표자 및 세션 좌장 (Optimization Methods, OR & AI)',
+    'research.talk3.venue': 'AACL-IJCNLP 2026 (제5회 ACL 아시아태평양 지부 학술대회 & 제15회 IJCNLP) \u00B7 중국 헝친 \u00B7 2026년 11월 6\u201310일',
+    'research.talk3.role': '포스터 발표 (Findings)',
+    'research.talk3.cert': '참가 증명서 보기 \u2192',
     'research.talk2.venue': 'BK21 NUS \u00B7 부경대 \u00B7 부산대 공동 워크숍 \u00B7 싱가포르 \u00B7 2026년 7월 22일',
     'research.talk2.role': '발표자',
 
