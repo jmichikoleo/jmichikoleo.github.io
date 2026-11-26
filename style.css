@@ -1062,7 +1062,13 @@ ul {
 }
 
 .photo-gallery-portrait {
-  max-width: 640px;
+  grid-template-columns: repeat(3, 1fr);
+}
+
+@media (max-width: 480px) {
+  .photo-gallery-portrait {
+    grid-template-columns: 1fr;
+  }
 }
 
 .photo-gallery-portrait figure {
